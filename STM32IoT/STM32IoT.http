@@ -1,0 +1,6 @@
+@STM32IoT_HostAddress = http://localhost:5103
+
+GET {{STM32IoT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

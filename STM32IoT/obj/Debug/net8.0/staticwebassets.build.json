@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IkAfJur13nr6Mx8QLFr8PPPevl9pJeB2R7NXzJ4CcLU=",
+  "Source": "STM32IoT",
+  "BasePath": "_content/STM32IoT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
