@@ -21,5 +21,6 @@ microcontroller folder contains the PlatformIO template where the code for the s
 SignalR is a library mainly used for adding real-time web functionality to applications. <br>
 It uses something called Hubs to communicate between clients and servers, and the server creates an endpoint for duplex communication. <br>
 In a nutshell, A Hub acts like a proxy between client and server, and SignalR allows to exposes methods or functions that both server and client can use <br>
+It is also used a Web Api, a framework (more like a template) that creates a RESTful API, which works as a component that allows communication through requests. <br>
 
 # Acknowledgements
