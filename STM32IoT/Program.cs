@@ -21,31 +21,33 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.MapHub<SensorHub>("/sensorHub");
 
-var summaries = new[]
+var serialPort = new SerialPort("dev/ttyACM0",115200);
+if (!serialPort.IsOpen)
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
+serialPort.Open();
+}
 
-app.MapGet("/weatherforecast", () =>
+Task.Run(async () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+    while (true)
+    {
+        try
+        {
+            string data = serialPort.ReadLine();
+
+            Console.WriteLine($"Received: {data}");
+
+            await app.Services.GetRequiredService<IHubContext<SensorHub>>().Clients.All.SendAsync("ReceiveData", data);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+    }
+});
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
+public class SensorHub : Hub { }
