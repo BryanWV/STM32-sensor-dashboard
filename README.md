@@ -38,3 +38,4 @@ It is also used a Web Api, a framework (more like a template) that creates a RES
 * [What is an API](https://aws.amazon.com/what-is/api/)
 * [How SignalR Works](https://learn.microsoft.com/en-us/training/modules/aspnet-core-signalr/3-how-signalr-works)
 * [Hubs: Functions](https://learn.microsoft.com/en-us/aspnet/core/signalr/hubs?view=aspnetcore-9.0)
+* [Permission denied serialPort](https://forum.arduino.cc/t/permission-denied-on-dev-ttyacm0/475568)
