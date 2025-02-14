@@ -1,6 +1,6 @@
 # Description
 IoT Dashboard with .NET <br>
-A web dashboard that communicates with a STM32 to display sensor data (e.g., LM35 temperature readings).<br>
+A web dashboard that communicates with a STM32 to display sensor data (LM35 temperature sensor).<br>
 Tech Stack: .NET Web API + SignalR + Blazor.
 <br> <br>
 ## Tech stack
@@ -10,18 +10,18 @@ Microcontroller: STM32F746ZG
 <br> <br>
 
 # Project structure
-STM32IoT folder containsna web application, initialized using the following command
-```
-dotnet new webapi -o STM32IoT && cd STM32IoT && dotnet add new package System.IO.Ports && dotnet add nee package Microsoft.AspNetCore.SignalR
+*STM32IoT* folder contains web application template, initialized using the following command
+```bash
+dotnet new webapi -o STM32IoT && cd STM32IoT && dotnet add new package System.IO.Ports && dotnet add new package Microsoft.AspNetCore.SignalR
 ```
 
-microcontroller folder contains the PlatformIO template where the code for the stm32 is located
+*microcontroller* folder contains the PlatformIO template where the code for the stm32 is located
 <br> <br>
 # Technical details
 
 SignalR is a library mainly used for adding real-time web functionality to applications. <br>
 It uses something called *Hubs* to communicate between clients and servers, and the server creates an endpoint for duplex communication. <br>
-In a nutshell, A Hub acts like a proxy between client and server, and SignalR allows to exposes methods or functions that both server and client can use <br>
+In a nutshell, A Hub acts like a proxy between client and server, and SignalR allows to expose methods or functions that both server and client can use. <br>
 It is also used a Web Api, a framework (more like a template) that creates a RESTful API, which works as a component that allows communication through requests.
 <br> <br>
 ## Keywords
