@@ -23,7 +23,7 @@ if (app.Environment.IsDevelopment())
 
 app.MapHub<SensorHub>("/sensorHub");
 
-var serialPort = new SerialPort("dev/ttyACM0",115200);
+var serialPort = new SerialPort("/dev/ttyACM0",115200);
 if (!serialPort.IsOpen)
 {
 	serialPort.Open();
