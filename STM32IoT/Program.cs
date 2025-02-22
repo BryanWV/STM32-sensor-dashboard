@@ -14,6 +14,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+app.MapHub<SensorHub>("/sensorHub");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -23,12 +24,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UserAuthorization();
+
 app.MapControllers();
 
-app.MapHub<SensorHub>("/sensorHub");
 
-var serialPort = new SerialPort("/dev/ttyACM0",115200);
+var serialPort = new SerialPort("/dev/ttyACM0", 115200);
 if (!serialPort.IsOpen)
 {
 	serialPort.Open();

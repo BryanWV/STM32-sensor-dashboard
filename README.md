@@ -1,7 +1,7 @@
 # Description
 IoT Dashboard with .NET <br>
 A web dashboard that communicates with a STM32 to display sensor data (LM35 temperature sensor).<br>
-Tech Stack: .NET Web API + SignalR + Blazor.
+Tech Stack: .NET Web API + SignalR + Blazor WASM.
 <br> <br>
 ## Tech stack
 Frontend: Blazor WebAssembly <br>
@@ -11,12 +11,21 @@ Microcontroller: STM32F746ZG
 
 # Project structure
 *STM32IoT* folder contains web application template, initialized using the following command
-```bash
+```cs
 dotnet new webapi -o STM32IoT && cd STM32IoT && dotnet add new package System.IO.Ports && dotnet add new package Microsoft.AspNetCore.SignalR
 ```
 
 *microcontroller* folder contains the PlatformIO template where the code for the stm32 is located
 <br> <br>
+
+*STM32IoTDashboard* folder contains the Blazor Web Assembly template, initialized using the following command
+
+```cs
+dotnet new blazorwasm -o STM32IoTDashboard
+```
+
+
+<br><br>
 # Technical details
 
 SignalR is a library mainly used for adding real-time web functionality to applications. <br>
