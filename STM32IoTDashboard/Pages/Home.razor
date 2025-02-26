@@ -1,7 +1,26 @@
-﻿@page "/"
+@page "/"
+@using Microsoft.AspNetCore.SignalR.Client
 
-<PageTitle>Home</PageTitle>
+<h3>Live Temperature Data</h3>
+<p>@temperature</p>
 
-<h1>Hello, world!</h1>
+@code {
+    private string temperature = "Waiting for data...";
+    private HubConnection? hubConnection;
 
-Welcome to your new app.
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl("https://localhost:5103/sensorHub") // Adjust if running in production
+            .Build();
+
+        hubConnection.On<string>("ReceiveTemperature", (data) =>
+        {
+            temperature = data;
+            StateHasChanged();
+        });
+
+        await hubConnection.StartAsync();
+    }
+}
+
