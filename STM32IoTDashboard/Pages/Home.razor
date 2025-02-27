@@ -6,21 +6,23 @@
 
 @code {
     private string temperature = "Waiting for data...";
-    private HubConnection? hubConnection;
+    private HubConnection? _hubConnection;
 
     protected override async Task OnInitializedAsync()
     {
-        hubConnection = new HubConnectionBuilder()
-            .WithUrl("https://localhost:5103/sensorHub") // Adjust if running in production
+
+            _hubConnection = new HubConnectionBuilder()
+            .WithUrl("https://localhost:5216/sensorHub")
             .Build();
 
-        hubConnection.On<string>("ReceiveTemperature", (data) =>
+        _hubConnection.On<string>("ReceiveTemperature", (data) =>
         {
             temperature = data;
-            StateHasChanged();
+            InvokeAsync(StateHasChanged);
         });
+        
+	await _hubConnection.StartAsync();
 
-        await hubConnection.StartAsync();
     }
 }
 

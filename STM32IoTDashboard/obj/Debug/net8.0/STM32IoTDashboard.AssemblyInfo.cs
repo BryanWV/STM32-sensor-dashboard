@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STM32IoTDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8c07cbae24e6e2f13672599549b04b44b6c82aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d97adfa6744d51a346402d12b3e246de53323f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("STM32IoTDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STM32IoTDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

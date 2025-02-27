@@ -34,7 +34,7 @@ if (!serialPort.IsOpen)
 	serialPort.Open();
 }
 
-Task.Run(async () =>
+await Task.Run(async () =>
 {
     while (true)
     {
@@ -56,4 +56,3 @@ Task.Run(async () =>
 app.Run();
 
 public class SensorHub : Hub { }
-

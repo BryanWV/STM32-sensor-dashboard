@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "STM32IoTDashboard",
   "resources": {
-    "hash": "sha256-tlNEPWxFet99PBZtgFE2VP4o3c7Mv6uQcMlL29J+4Po=",
+    "hash": "sha256-a2vI0BqFHWxCEEXqrR/M5KnlbAAUYDcJgZzy2y4aLIQ=",
     "jsModuleNative": {
       "dotnet.native.8.0.13.yresxmh3bt.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -22,7 +22,14 @@
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-y+vSHfxfthNQLuI3YYqbRnwPOD49aCCNjYLZudiE3q4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-e4hqkIPdVVdFFXvJs2Z6QafKhk12fDzlKQKxa83DtLo=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-iYwWRHCaYqK1f3lFW+fg6B8/gZmo+j33ZABi/MGP+kw=",
+      "Microsoft.AspNetCore.Connections.Abstractions.wasm": "sha256-ZpaiDXVtgJ5vEjiYxYRGGaR54QdFUU3NNMYk/d+DHig=",
+      "Microsoft.AspNetCore.Http.Connections.Client.wasm": "sha256-gYtleef591bU/Yf+WzKvoy3bgc7XDWqK0OIMF0SWFw8=",
+      "Microsoft.AspNetCore.Http.Connections.Common.wasm": "sha256-/g2ECZCeDISywoiQijMPSsUYo4ATNILQ39PyWFRyaCU=",
       "Microsoft.AspNetCore.Metadata.wasm": "sha256-zMam9mVqxQEy1t0AO7885plNzJJMIj7WTLYpglj2Hrg=",
+      "Microsoft.AspNetCore.SignalR.Client.wasm": "sha256-uBL41T4S328nso/3O+kBgbPeau1wtruZisR+/xZGKcE=",
+      "Microsoft.AspNetCore.SignalR.Client.Core.wasm": "sha256-DAWx7nbbpJ1MflmLLYf4szQ0mVWP+hAvw+PyvaCbx2U=",
+      "Microsoft.AspNetCore.SignalR.Common.wasm": "sha256-WTi4vfVC9w3fB0AlzI0eFIbF/n97ebligcyACrW7QZk=",
+      "Microsoft.AspNetCore.SignalR.Protocols.Json.wasm": "sha256-bMTxTQX1CtwN97l+25dqEY+fsKZRGOOsb4MR80HMr+0=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-UDGEQR7J3WTfzYMgOzxVIBwFQtKEeJvO8UgrWagypdE=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-yNdqbqDWGiJo943D7LPak5xryCBEsNH0wtdiuU1R9VE=",
       "Microsoft.Extensions.Configuration.Binder.wasm": "sha256-fNNlyyW44y8Gp6dvOtsvHoVNzpT8lrKmPleg5CDhRAo=",
@@ -30,6 +37,7 @@
       "Microsoft.Extensions.Configuration.Json.wasm": "sha256-CtLsl9w5UTJXGXTbp+SQxMzt9f/gjQ4EkywrtuCscvU=",
       "Microsoft.Extensions.DependencyInjection.wasm": "sha256-CS+QrPLaogl32aUg+ES1Ef5QGKoMyjt3V+wGoiG+tpw=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.wasm": "sha256-NICKEw2hjoBhl1lvxOBh8cxOIN8kkrGHz3pvV1eLLbY=",
+      "Microsoft.Extensions.Features.wasm": "sha256-uXAfcqWanh3/cMfvSUOqZYrSi7C/AtPEksfTAO65xwk=",
       "Microsoft.Extensions.FileProviders.Abstractions.wasm": "sha256-IUopixuV8E09mP+TIgRp/lXEbeacXbUTW7cu0v5B9Tc=",
       "Microsoft.Extensions.FileProviders.Physical.wasm": "sha256-MS+zB0xkKhKk/QdE32ZwKtdlrLMLI/y2NAKPUWhcBVg=",
       "Microsoft.Extensions.FileSystemGlobbing.wasm": "sha256-AnWUKd0qJ8ZNKkRC0AFK2cjjszB7reXiP+bXdIi8bic=",
@@ -208,10 +216,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "STM32IoTDashboard.wasm": "sha256-Zwq5Nhx1f89amv0rbVWaAyf92xst3b4USyBWXMJc2YM="
+      "STM32IoTDashboard.wasm": "sha256-p9xePWfhSKsLG/UtxizDCWXorHfBwKrFEb51TcSSNNY="
     },
     "pdb": {
-      "STM32IoTDashboard.pdb": "sha256-4tsdP4RNJ5CKynITFc4ymtdzYEUf/TIHGS5SQQAYfbY="
+      "STM32IoTDashboard.pdb": "sha256-z62RExXez8eAshWtLZrFJikcP9hKzvkeSemMInyz668="
     }
   },
   "cacheBootResources": true,

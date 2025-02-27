@@ -14,7 +14,14 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Components.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Connections.Abstractions.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.Core.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.CSharp.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.wasm
@@ -23,6 +30,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Configuration.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Features.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.wasm
@@ -264,6 +272,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.IsolatedStorage.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Linq.Parallel.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Security.Principal.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Net.Http.Json.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Net.Quic.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Resources.Writer.wasm.gz
@@ -292,6 +301,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.Pipelines.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.FileSystem.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Xml.ReaderWriter.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Connections.Abstractions.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Reflection.Extensions.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Primitives.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.ComponentModel.TypeConverter.wasm.gz
@@ -306,6 +316,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.ObjectModel.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.ServiceProcess.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Net.Security.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Diagnostics.Contracts.wasm.gz
@@ -334,6 +345,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Logging.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Collections.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Formats.Asn1.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Features.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Private.Xml.Linq.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Threading.Timer.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/mscorlib.wasm.gz
@@ -341,9 +353,11 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.VisualBasic.Core.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Resources.ResourceManager.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.Pipes.AccessControl.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.FileSystem.Primitives.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Text.Encodings.Web.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Collections.Specialized.wasm.gz
@@ -363,6 +377,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Net.Primitives.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Resources.Reader.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.Core.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.Options.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Xml.XPath.wasm.gz
@@ -382,6 +397,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.IO.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/WindowsBase.wasm.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/System.Threading.ThreadPool.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.wasm.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Win32.Registry.wasm.gz
@@ -414,7 +430,14 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Forms.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Components.Web.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Common.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.Metadata.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Common.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
@@ -422,6 +445,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.Features.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
@@ -621,7 +645,14 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.Web.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.WebAssembly.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Connections.Abstractions.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Http.Connections.Client.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Http.Connections.Common.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Metadata.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.SignalR.Client.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.SignalR.Client.Core.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.SignalR.Common.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.SignalR.Protocols.Json.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.Configuration.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.Configuration.Abstractions.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.Configuration.Binder.wasm
@@ -629,6 +660,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.Configuration.Json.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.DependencyInjection.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.Features.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.FileProviders.Abstractions.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.FileProviders.Physical.wasm
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/webcil/Microsoft.Extensions.FileSystemGlobbing.wasm
@@ -827,7 +859,14 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/4p0tvxo7i8.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/5244bxwotg.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/6joqye9zwj.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/evbg8xb5o8.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/boknvztcsv.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/o5o95m47bb.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/4lxpur47ch.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/hbb6wjna34.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/td5h5k8k1m.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/p49k25utgy.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/xcjncj9mn3.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/7xpq6u755y.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/5uhzthrlg5.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/u13abzfwlt.gz
@@ -835,6 +874,7 @@
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/53499sbsxy.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/xlv1byl14g.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/jc97xhoggv.gz
+/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/n24dmwcd44.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/dwc0iondjn.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/dx4e6nybb3.gz
 /home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/obj/Debug/net8.0/compressed/0o2kqgo7by.gz

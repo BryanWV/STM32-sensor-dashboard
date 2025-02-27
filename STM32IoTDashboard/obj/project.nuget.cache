@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3iCRCT30c6A=",
+  "dgSpecHash": "lHHKDF4JWjU=",
   "success": true,
   "projectFilePath": "/home/bwilches/Documents/STM32-sensor-dashboard/STM32IoTDashboard/STM32IoTDashboard.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,14 @@
     "/home/bwilches/.nuget/packages/microsoft.aspnetcore.components.web/8.0.13/microsoft.aspnetcore.components.web.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.13/microsoft.aspnetcore.components.webassembly.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/8.0.13/microsoft.aspnetcore.components.webassembly.devserver.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.connections.abstractions/8.0.13/microsoft.aspnetcore.connections.abstractions.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.http.connections.client/8.0.13/microsoft.aspnetcore.http.connections.client.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.http.connections.common/8.0.13/microsoft.aspnetcore.http.connections.common.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.aspnetcore.metadata/8.0.13/microsoft.aspnetcore.metadata.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.signalr.client/8.0.13/microsoft.aspnetcore.signalr.client.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.signalr.client.core/8.0.13/microsoft.aspnetcore.signalr.client.core.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.signalr.common/8.0.13/microsoft.aspnetcore.signalr.common.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/8.0.13/microsoft.aspnetcore.signalr.protocols.json.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.configuration.binder/8.0.2/microsoft.extensions.configuration.binder.8.0.2.nupkg.sha512",
@@ -19,6 +26,7 @@
     "/home/bwilches/.nuget/packages/microsoft.extensions.configuration.json/8.0.1/microsoft.extensions.configuration.json.8.0.1.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.extensions.features/8.0.13/microsoft.extensions.features.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
@@ -30,7 +38,8 @@
     "/home/bwilches/.nuget/packages/microsoft.jsinterop.webassembly/8.0.13/microsoft.jsinterop.webassembly.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.net.illink.tasks/8.0.13/microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.13/microsoft.net.sdk.webassembly.pack.8.0.13.nupkg.sha512",
-    "/home/bwilches/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+    "/home/bwilches/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

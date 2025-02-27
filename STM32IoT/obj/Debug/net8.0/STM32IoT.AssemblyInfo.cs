@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STM32IoT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+766e4dbf6afc0c3daac0d53b9a90080921ccdf7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d97adfa6744d51a346402d12b3e246de53323f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("STM32IoT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STM32IoT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
